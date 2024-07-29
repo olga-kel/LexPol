@@ -1,0 +1,6 @@
+	Polarity 3	Polarity 5
+ADJ	53	29
+NOUN	74	95
+VERB	27	56
+ADV	20	13
+FUNCTIONAL	30	50
